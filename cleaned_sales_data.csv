@@ -1,0 +1,11 @@
+order_id,date,region,product,quantity,unit_price,discount_pct,revenue
+O1001,2026-01-03,Brisbane,Laptop,2,1200,0.1,2160.0
+O1002,2026-01-04,Sydney,Monitor,3,250,0.05,712.5
+O1003,2026-01-05,Brisbane,Keyboard,5,45,0.0,225.0
+O1004,2026-01-06,Melbourne,Laptop,1,1200,0.15,1020.0
+O1005,2026-01-07,Sydney,Mouse,10,25,0.0,250.0
+O1006,2026-01-08,Brisbane,Monitor,2,250,0.05,475.0
+O1007,2026-01-09,Melbourne,Keyboard,4,45,0.0,180.0
+O1008,2026-01-10,Sydney,Laptop,1,1200,0.1,1080.0
+O1009,2026-01-11,Brisbane,Mouse,6,25,0.0,150.0
+O1010,2026-01-12,Melbourne,Monitor,2,250,0.1,450.0
